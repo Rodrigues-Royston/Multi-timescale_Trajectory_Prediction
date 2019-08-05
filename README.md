@@ -1,12 +1,8 @@
 ## Abstract
-Most existing methods for abnormal activity detection model normal activities present in the
-training data. Any activity deviating from the learned normal representation is flagged as
-anomalous. Typically, these methods are trained at a specific timescale (either a single time-
-instant or a constant time duration) and are restricted to capture anomalies present only at that
-timescale. But abnormal activities can happen at different timescales. For example, jumping
-is a short term anomaly and loitering is a long term anomaly in a scenario where walking is
-considered as a normal activity. Hence, a pre-defined timescale may not be sufficient to capture
-the wide range of anomalies.
+Most existing methods for abnormal activity detection model normal activities present in the training data. Any activity deviating from the learned normal representation is flagged as
+anomalous. Typically, these methods are trained at a specific timescale (either a single time-instant or a constant time duration) and are restricted to capture anomalies present only at that
+timescale. But abnormal activities can happen at different timescales. For example, jumping is a short term anomaly and loitering is a long term anomaly in a scenario where walking is
+considered as a normal activity. Hence, a pre-defined timescale may not be sufficient to capture the wide range of anomalies.
 
 In this thesis we propose a multi-timescale (from small to large) model to capture the temporal
 dynamics pertaining to different timescales. Our model is based on 1D-convolutional neural
