@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+## Abstract
+Most existing methods for abnormal activity detection model normal activities present in the
+training data. Any activity deviating from the learned normal representation is flagged as
+anomalous. Typically, these methods are trained at a specific timescale (either a single time-
+instant or a constant time duration) and are restricted to capture anomalies present only at that
+timescale. But abnormal activities can happen at different timescales. For example, jumping
+is a short term anomaly and loitering is a long term anomaly in a scenario where walking is
+considered as a normal activity. Hence, a pre-defined timescale may not be sufficient to capture
+the wide range of anomalies.
 
-You can use the [editor on GitHub](https://github.com/Rodrigues-Royston/Multi-timescale_Trajectory_Prediction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this thesis we propose a multi-timescale (from small to large) model to capture the temporal
+dynamics pertaining to different timescales. Our model is based on 1D-convolutional neural
+network and is capable of learning regularity in sequences at multiple time scales. In particular,
+the proposed model predicts future and past human pose trajectories for a given input pose
+trajectory at different timescales. Prediction errors at all the timescales are considered to
+classify an event as anomalous. Our experiments show that the proposed model can capture
+anomalies occurring at different timescales. We also show that our method outperforms the
+existing methods on challenging public data-sets.
 
 ### Markdown
 
