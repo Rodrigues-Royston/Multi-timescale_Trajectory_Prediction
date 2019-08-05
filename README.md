@@ -30,12 +30,6 @@ The proposed model generates large deviations for prediciton of human pose traje
 In order to benchmark existing techniques for the task of abnormal activity detection we also introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a
 dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames.
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
+### Contact
 
 Feel free to contact me at royston.rodrigues@protonmail.com for quires regarding this work.
