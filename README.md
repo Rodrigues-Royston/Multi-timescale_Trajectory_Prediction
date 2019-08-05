@@ -16,7 +16,8 @@ This repository will contain the implementation of the approach described in the
 
 [Link](url) and ![Image](src)
 ```
-also our newly proposed dataset will be made available here soon. The dataset will be provided for research purpose only. 
+Our newly proposed dataset will be made available here soon. The dataset will be provided for research purpose only. 
+Please cite our work if you find our work or dataset useful for your research.
 
 ### Trajectory Predicition for Normal Samples
 The proposed model is able to predicit future human pose trajectories sucessfuly for normal pedestrain activities. 
