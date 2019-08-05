@@ -1,24 +1,6 @@
-## Abstract
-Most existing methods for abnormal activity detection model normal activities present in the training data. Any activity deviating from the learned normal representation is flagged as
-anomalous. Typically, these methods are trained at a specific timescale (either a single time-instant or a constant time duration) and are restricted to capture anomalies present only at that
-timescale. But abnormal activities can happen at different timescales. For example, jumping is a short term anomaly and loitering is a long term anomaly in a scenario where walking is
-considered as a normal activity. Hence, a pre-defined timescale may not be sufficient to capture the wide range of anomalies.
-
-In this thesis we propose a multi-timescale (from small to large) model to capture the temporal
-dynamics pertaining to different timescales. Our model is based on 1D-convolutional neural
-network and is capable of learning regularity in sequences at multiple time scales. In particular,
-the proposed model predicts future and past human pose trajectories for a given input pose
-trajectory at different timescales. Prediction errors at all the timescales are considered to
-classify an event as anomalous. Our experiments show that the proposed model can capture
-anomalies occurring at different timescales. We also show that our method outperforms the
-existing methods on challenging public data-sets.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection
+This repository will contain the implementation of the approach described in the paper, 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -34,13 +16,25 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+also our newly proposed dataset will be made available here soon. The dataset will be provided for research purpose only. 
+
+### Trajectory Predicition for Normal Samples
+The proposed model is able to predicit future human pose trajectories sucessfuly for normal pedestrain activities. 
+
+### Trajectory Predicition for Abnormal Samples
+The proposed model generates large deviations for prediciton of human pose trajectories corresponding to abnormal activities. 
+
+
+### Corridore Dataset
+In order to benchmark existing techniques for the task of abnormal activity detection we also introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a
+dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames.
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rodrigues-Royston/Multi-timescale_Trajectory_Prediction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to contact me at royston.rodrigues@protonmail.com for quires regarding this work.
