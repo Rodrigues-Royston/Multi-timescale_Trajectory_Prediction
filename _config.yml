@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Abnormal Activity Detection with Human Pose Estimation
 description: Royston Rodrigues
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
