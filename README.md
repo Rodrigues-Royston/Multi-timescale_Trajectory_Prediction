@@ -35,7 +35,7 @@ In order to benchmark existing techniques for the task of abnormal activity dete
 dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames and will be made avialble for free for research purpose.
 
 
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/sudden_running.gif) |
 |:--:|:--:|
 | *Protest* |*Sudden Running*|
 
