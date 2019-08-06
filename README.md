@@ -20,7 +20,8 @@ image: Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif
 ```
 
 ![GitHub Logo](/dataset_gifs/protest.gif)
-Format: ![Alt Text](url)
+![GitHub Logo](/dataset_gifs/protest.gif)
+
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
 ### Trajectory Predicition for Normal Samples
