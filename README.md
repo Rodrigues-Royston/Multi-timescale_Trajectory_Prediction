@@ -19,29 +19,6 @@ This repository will contain the implementation of the approach described in the
 image: Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif
 ```
 
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Space* |*Loitering*|
-
-
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Space* |*Loitering*|
-
-
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Space* |*Loitering*|
-
-
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Space* |*Loitering*|
-
-
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Space* |*Loitering*|
 
 
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
@@ -56,6 +33,31 @@ The proposed model generates large deviations for prediciton of human pose traje
 ### Corridore Dataset
 In order to benchmark existing techniques for the task of abnormal activity detection we introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a
 dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames and will be made avialble for free for research purpose.
+
+
+|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|:--:|:--:|
+| *Protest* |*Sudden Running*|
+
+
+|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|:--:|:--:|
+| *Fighting* |*Chasing*|
+
+
+|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|:--:|:--:|
+| *Space* |*Loitering*|
+
+
+|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|:--:|:--:|
+| *Space* |*Loitering*|
+
+
+|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|:--:|:--:|
+| *Space* |*Loitering*|
 
 ### Contact
 
