@@ -18,6 +18,9 @@ This repository will contain the implementation of the approach described in the
 ![useful image](/dataset_gifs/protest.gif)
 image: Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif
 ```
+
+![GitHub Logo](/dataset_gifs/protest.gif)
+Format: ![Alt Text](url)
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
 ### Trajectory Predicition for Normal Samples
