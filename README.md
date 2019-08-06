@@ -45,7 +45,7 @@ dataset will motivate investigations for human activity analysis to consider sin
 | *Fighting* |*Suspicious Object*|
 
 
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/loitering.gif) |
+|![GitHub Logo](/dataset_gifs/unattended_baggage.gif) |![GitHub Logo](/dataset_gifs/loitering.gif) |
 |:--:|:--:|
 | *Unattended Baggage* |*Loitering*|
 
