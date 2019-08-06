@@ -14,7 +14,7 @@ This repository will contain the implementation of the approach described in the
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](./dataset_gifs/protest.gif)
+![Image]https://rodrigues-royston.github.io/Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif  (/dataset_gifs/protest.gif)
 ```
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
