@@ -16,7 +16,7 @@ This repository will contain the implementation of the approach described in the
 
 ![Image] https://rodrigues-royston.github.io/Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif 
 ![useful image](/dataset_gifs/protest.gif)
-image: /dataset_gifs/protest.gif
+image: Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif
 ```
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
