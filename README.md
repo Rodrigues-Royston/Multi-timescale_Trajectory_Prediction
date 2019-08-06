@@ -42,22 +42,22 @@ dataset will motivate investigations for human activity analysis to consider sin
 
 |![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
 |:--:|:--:|
-| *Fighting* |*Chasing*|
+| *Fighting* |*Suspicious Object*|
 
 
 |![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
 |:--:|:--:|
-| *Space* |*Loitering*|
+| *Unattended Baggage* |*Loitering*|
 
 
 |![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
 |:--:|:--:|
-| *Space* |*Loitering*|
+| *Cycling* |*Playing with Ball*|
 
 
 |![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
 |:--:|:--:|
-| *Space* |*Loitering*|
+| *Chasing* |*Hiding Face*|
 
 ### Contact
 
