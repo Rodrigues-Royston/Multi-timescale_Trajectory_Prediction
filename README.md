@@ -55,7 +55,7 @@ dataset will motivate investigations for human activity analysis to consider sin
 | *Cycling* |*Playing with Ball*|
 
 
-|![GitHub Logo](/dataset_gifs/chasing.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
+|![GitHub Logo](/dataset_gifs/chasing.gif) |![GitHub Logo](/dataset_gifs/hiding.gif) |
 |:--:|:--:|
 | *Chasing* |*Hiding Face*|
 
