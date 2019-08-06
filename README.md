@@ -14,7 +14,7 @@ This repository will contain the implementation of the approach described in the
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](./dataset_gifs/protest.gif)
 ```
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
