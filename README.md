@@ -36,33 +36,21 @@ dataset will motivate investigations for human activity analysis to consider sin
 
 
 
-|![GitHub Logo](/dataset_gifs/small_img.jpg) |![GitHub Logo](/dataset_gifs/small_img.jpg) |![GitHub Logo](/dataset_gifs/small_img.jpg) |
+|![GitHub Logo](/iitb_imgs/small_protest.jpg) |![GitHub Logo](/iitb_imgs/small_running.jpg) |![GitHub Logo](/iitb_imgs/small_fighting.jpg) |
 |:--:|:--:|:--:|
-|*Sudden Running*|*Sudden Running*|*Sudden Running*|
+|*Protest*|*Sudden Running*|*Fighting*|
 
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/sudden_running.gif) |
-|:--:|:--:|
-| *Protest* |*Sudden Running*|
+|![GitHub Logo](/iitb_imgs/small_unattended.jpg) |![GitHub Logo](/iitb_imgs/small_chasing.jpg) |![GitHub Logo](/iitb_imgs/small_suspicious.jpg) |
+|:--:|:--:|:--:|
+|*Unattended Baggage*|*Chasing*|*Suspicious Object*|
 
+|![GitHub Logo](/iitb_imgs/small_hiding.jpg) |![GitHub Logo](/iitb_imgs/small_playing.jpg) |![GitHub Logo](/iitb_imgs/small_loitering.jpg) |
+|:--:|:--:|:--:|
+|*Hiding Face*|*Playing with Ball*|*Loitering*|
 
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Fighting* |*Suspicious Object*|
-
-
-|![GitHub Logo](/dataset_gifs/unattended_baggage.gif) |![GitHub Logo](/dataset_gifs/loitering.gif) |
-|:--:|:--:|
-| *Unattended Baggage* |*Loitering*|
-
-
-|![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/protest.gif) |
-|:--:|:--:|
-| *Cycling* |*Playing with Ball*|
-
-
-|![GitHub Logo](/dataset_gifs/chasing.gif) |![GitHub Logo](/dataset_gifs/hiding.gif) |
-|:--:|:--:|
-| *Chasing* |*Hiding Face*|
+|![GitHub Logo](/dataset_gifs/small_img.jpg) |![GitHub Logo](/iitb_imgs/small_normal.jpg) |![GitHub Logo](/iitb_imgs/small_normal_2.jpg) |
+|:--:|:--:|:--:|
+|*Cycling*|*Standing*|*Walking*|
 
 ### Contact
 
