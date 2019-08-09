@@ -48,7 +48,7 @@ dataset will motivate investigations for human activity analysis to consider sin
 |:--:|:--:|:--:|
 |*Hiding Face*|*Playing with Ball*|*Loitering*|
 
-|![GitHub Logo](//iitb_imgs/small_cycling.jpg) |![GitHub Logo](/iitb_imgs/small_normal.jpg) |![GitHub Logo](/iitb_imgs/small_normal_2.jpg) |
+|![GitHub Logo](/iitb_imgs/small_cycling.jpg) |![GitHub Logo](/iitb_imgs/small_normal.jpg) |![GitHub Logo](/iitb_imgs/small_normal_2.jpg) |
 |:--:|:--:|:--:|
 |*Cycling*|*Standing*|*Walking*|
 
