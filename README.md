@@ -36,9 +36,9 @@ dataset will motivate investigations for human activity analysis to consider sin
 
 
 
-|![GitHub Logo](/dataset_gifs/sudden_running_small.gif) |![GitHub Logo](/dataset_gifs/sudden_running_small.gif) |![GitHub Logo](/dataset_gifs/sudden_running_small.gif) |![GitHub Logo](/dataset_gifs/sudden_running_small.gif) |![GitHub Logo](/dataset_gifs/sudden_running_small.gif) |
-|:--:|:--:|:--:|:--:|:--:|
-| *Protest* |*Sudden Running*|*Sudden Running*|*Sudden Running*|*Sudden Running*|
+|![GitHub Logo](/dataset_gifs/small_img.jpg) |![GitHub Logo](/dataset_gifs/small_img.jpg) |![GitHub Logo](/dataset_gifs/small_img.jpg) |![GitHub Logo](/dataset_gifs/small_img.jpg) |
+|:--:|:--:|:--:|:--:|
+|*Sudden Running*|*Sudden Running*|*Sudden Running*|*Sudden Running*|
 
 |![GitHub Logo](/dataset_gifs/protest.gif) |![GitHub Logo](/dataset_gifs/sudden_running.gif) |
 |:--:|:--:|
