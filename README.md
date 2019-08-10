@@ -55,9 +55,10 @@ dataset will motivate investigations for human activity analysis to consider sin
 ### Results
 
 |Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
-|Liu et al. (CVPR-18)|||||
-|Morried et al. (CVPR-19)|||||
-|Ours|||||
+|:--:|:--:|:--:|:--:|:--:|
+|Liu et al. (CVPR-18)|:--:|:--:|:--:|:--:|
+|Morried et al. (CVPR-19)|:--:|:--:|:--:|:--:|
+|Ours|:--:|:--:|:--:|:--:|:--:|
 
 ### Contact
 
