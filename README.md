@@ -52,6 +52,13 @@ dataset will motivate investigations for human activity analysis to consider sin
 |:--:|:--:|:--:|
 |*Cycling*|*Standing*|*Walking*|
 
+### Results
+
+|Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
+|Liu et al. (CVPR-18)|||||
+|Morried et al. (CVPR-19)|||||
+|Ours|||||
+
 ### Contact
 
 Feel free to contact me at royston.rodrigues@protonmail.com for quires regarding this work.
