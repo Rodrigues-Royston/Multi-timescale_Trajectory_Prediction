@@ -66,7 +66,7 @@ dataset will motivate investigations for human activity analysis to consider sin
 
 ### Results
 To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. 
-The comparison is given in the below Table. 
+The comparison is given in the below table. 
 
 |Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
 |:--:|:--:|:--:|:--:|:--:|
