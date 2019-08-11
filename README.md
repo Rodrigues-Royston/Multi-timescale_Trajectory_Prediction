@@ -29,9 +29,9 @@ The proposed model is able to predicit future human pose trajectories sucessfuly
 
 |![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_02.gif) |
 |:--:|:--:|
-|*Protest*|*Sudden Running*|
-|![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_01.gif) |
-|*Protest*|*Sudden Running*|
+|*Video Frames*|*Input Trajectory,Our Predicition*|
+|![GitHub Logo](/result_gifs/normal_03.gif) |![GitHub Logo](/result_gifs/normal_01.gif) |
+|*Input Trajectory,Ground Truth*|*Input Trajectory,Ground Truth,Our Predicition*|
 
 ### Trajectory Predicition for Abnormal Samples
 The proposed model generates large deviations for prediciton of human pose trajectories corresponding to abnormal activities. 
