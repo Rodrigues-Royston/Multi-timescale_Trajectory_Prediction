@@ -30,7 +30,7 @@ The proposed model is able to predicit future human pose trajectories sucessfuly
 |![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_02.gif) |
 |:--:|:--:|
 |*Video Frames*|*Input Trajectory,Our Predicition*|
-|![GitHub Logo](/result_gifs/normal_03.gif) |![GitHub Logo](/result_gifs/normal_01.gif) |
+|![GitHub Logo](/result_gifs/normal_03.gif) |![GitHub Logo](/result_gifs/normal_04.gif) |
 |*Input Trajectory,Ground Truth*|*Input Trajectory,Ground Truth,Our Predicition*|
 
 ### Trajectory Predicition for Abnormal Samples
