@@ -27,7 +27,7 @@ Our newly proposed dataset will be made available here soon. Please cite our pap
 The proposed model is able to predicit future human pose trajectories sucessfuly for normal pedestrain activities. 
 
 
-|![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_01.gif) |
+|![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_02.gif) |
 |:--:|:--:|
 |*Protest*|*Sudden Running*|
 |![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_01.gif) |
