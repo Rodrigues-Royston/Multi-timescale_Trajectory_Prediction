@@ -49,24 +49,25 @@ dataset will motivate investigations for human activity analysis to consider sin
 
 
 |![GitHub Logo](/iitb_imgs/small_protest.jpg) |![GitHub Logo](/iitb_imgs/small_running.jpg) |![GitHub Logo](/iitb_imgs/small_fighting.jpg) |
-
+|:--:|:--:|:--:|
 |*Protest*|*Sudden Running*|*Fighting*|
 
 |![GitHub Logo](/iitb_imgs/small_unattended.jpg) |![GitHub Logo](/iitb_imgs/small_chasing.jpg) |![GitHub Logo](/iitb_imgs/small_suspicious.jpg) |
-
+|:--:|:--:|:--:|
 |*Unattended Baggage*|*Chasing*|*Suspicious Object*|
 
 |![GitHub Logo](/iitb_imgs/small_hiding.jpg) |![GitHub Logo](/iitb_imgs/small_playing.jpg) |![GitHub Logo](/iitb_imgs/small_loitering.jpg) |
-
+|:--:|:--:|:--:|
 |*Hiding Face*|*Playing with Ball*|*Loitering*|
 
 |![GitHub Logo](/iitb_imgs/small_cycling.jpg) |![GitHub Logo](/iitb_imgs/small_normal.jpg) |![GitHub Logo](/iitb_imgs/small_normal_2.jpg) |
-
+|:--:|:--:|:--:|
 |*Cycling*|*Standing*|*Walking*|
 
 ### Results
 To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. 
 The comparison is given in the below Table. 
+
 |Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
 |:--:|:--:|:--:|:--:|:--:|
 |Liu et al. (CVPR-18)|86.20|72.70|72.80|64.65|
