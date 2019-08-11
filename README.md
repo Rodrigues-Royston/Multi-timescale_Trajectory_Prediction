@@ -65,7 +65,8 @@ dataset will motivate investigations for human activity analysis to consider sin
 |*Cycling*|*Standing*|*Walking*|
 
 ### Results
-
+To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. 
+The comparison is given in the below Table. 
 |Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
 |:--:|:--:|:--:|:--:|:--:|
 |Liu et al. (CVPR-18)|86.20|72.70|72.80|64.65|
