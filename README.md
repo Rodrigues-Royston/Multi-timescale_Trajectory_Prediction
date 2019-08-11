@@ -29,18 +29,18 @@ The proposed model is able to predicit future human pose trajectories sucessfuly
 
 |![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_02.gif) |
 |:--:|:--:|
-|Video Frames|Input Trajectory,Our Predicition|
+|Video Frames|Input Trajectory, Our Predicition|
 |![GitHub Logo](/result_gifs/normal_03.gif) |![GitHub Logo](/result_gifs/normal_04.gif) |
-|Input Trajectory,Ground Truth|Input Trajectory,Ground Truth,Our Predicition|
+|Input Trajectory, Ground Truth|Input Trajectory, Ground Truth, Our Predicition|
 
 ### Trajectory Predicition for Abnormal Samples
 The proposed model generates large deviations for prediciton of human pose trajectories corresponding to abnormal activities. (Please reload the webpage if the gif files don’t appear in synchronization) 
 
 |![GitHub Logo](/result_gifs/abnormal_01.gif) |![GitHub Logo](/result_gifs/abnormal_02.gif) |
 |:--:|:--:|
-|Video Frames|Input Trajectory,Our Predicition|
+|Video Frames|Input Trajectory, Our Predicition|
 |![GitHub Logo](/result_gifs/abnormal_03.gif) |![GitHub Logo](/result_gifs/abnormal_04.gif) |
-|Input Trajectory,Ground Truth|Input Trajectory,Ground Truth,Our Predicition|
+|Input Trajectory, Ground Truth|Input Trajectory, Ground Truth, Our Predicition|
 
 ### Corridore Dataset
 In order to benchmark existing techniques for the task of abnormal activity detection we introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a
