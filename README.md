@@ -25,7 +25,7 @@ Our newly proposed dataset will be made available here soon. Please cite our pap
 
 ### Trajectory Predicition for Normal Samples
 The proposed model is able to predicit future human pose trajectories sucessfuly for normal pedestrain activities. 
-
+(Please reload the webpage if the gif files don't appear in synchronization)
 
 |![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_02.gif) |
 |:--:|:--:|
