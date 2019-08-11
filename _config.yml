@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 title: Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection
 description: Royston Rodrigues, Neha Bhargava, Rajbabu Velmurugan, Subhasis Chaudhuri
-Royston:
+github:
  repository_url: http://example.com
+github:
  zip_url: www.gmail.com
  another_url: www.gmail.com
