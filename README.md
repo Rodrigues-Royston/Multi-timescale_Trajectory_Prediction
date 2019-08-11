@@ -49,19 +49,19 @@ dataset will motivate investigations for human activity analysis to consider sin
 
 
 |![GitHub Logo](/iitb_imgs/small_protest.jpg) |![GitHub Logo](/iitb_imgs/small_running.jpg) |![GitHub Logo](/iitb_imgs/small_fighting.jpg) |
-|:--:|:--:|:--:|
+
 |*Protest*|*Sudden Running*|*Fighting*|
 
 |![GitHub Logo](/iitb_imgs/small_unattended.jpg) |![GitHub Logo](/iitb_imgs/small_chasing.jpg) |![GitHub Logo](/iitb_imgs/small_suspicious.jpg) |
-|:--:|:--:|:--:|
+
 |*Unattended Baggage*|*Chasing*|*Suspicious Object*|
 
 |![GitHub Logo](/iitb_imgs/small_hiding.jpg) |![GitHub Logo](/iitb_imgs/small_playing.jpg) |![GitHub Logo](/iitb_imgs/small_loitering.jpg) |
-|:--:|:--:|:--:|
+
 |*Hiding Face*|*Playing with Ball*|*Loitering*|
 
 |![GitHub Logo](/iitb_imgs/small_cycling.jpg) |![GitHub Logo](/iitb_imgs/small_normal.jpg) |![GitHub Logo](/iitb_imgs/small_normal_2.jpg) |
-|:--:|:--:|:--:|
+
 |*Cycling*|*Standing*|*Walking*|
 
 ### Results
