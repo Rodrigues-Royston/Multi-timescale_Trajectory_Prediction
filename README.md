@@ -1,5 +1,5 @@
 ## Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection
-This repository will contain the implementation of the approach described in the paper, 
+This repository will contain the implementation of the approach described in the paper,  
 ```markdown
 
 # Header 1
@@ -20,12 +20,10 @@ image: Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif
 ```
 
 
-
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
 ### Trajectory Predicition for Normal Samples
-The proposed model is able to predicit future human pose trajectories sucessfuly for normal pedestrain activities. 
-(Please reload the webpage if the gif files don't appear in synchronization)
+The proposed model can predict future human pose trajectories successfully for normal pedestrian activities. (Please reload the webpage if the gif files don’t appear in synchronization)  
 
 |![GitHub Logo](/result_gifs/normal_01.gif) |![GitHub Logo](/result_gifs/normal_02.gif) |
 |:--:|:--:|
@@ -34,7 +32,7 @@ The proposed model is able to predicit future human pose trajectories sucessfuly
 |Input Trajectory, Ground Truth|Input Trajectory, Ground Truth, Our Predicition|
 
 ### Trajectory Predicition for Abnormal Samples
-The proposed model generates large deviations for prediciton of human pose trajectories corresponding to abnormal activities. (Please reload the webpage if the gif files don’t appear in synchronization) 
+The proposed model generates large deviations for the prediction of human pose trajectories corresponding to abnormal activities. (Please reload the webpage if the gif files don’t appear in synchronization)
 
 |![GitHub Logo](/result_gifs/abnormal_01.gif) |![GitHub Logo](/result_gifs/abnormal_02.gif) |
 |:--:|:--:|
@@ -43,8 +41,8 @@ The proposed model generates large deviations for prediciton of human pose traje
 |Input Trajectory, Ground Truth|Input Trajectory, Ground Truth, Our Predicition|
 
 ### Corridore Dataset
-In order to benchmark existing techniques for the task of abnormal activity detection we introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a
-dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames and will be made available for free for research purpose.
+In order to benchmark existing techniques for the task of abnormal activity detection we introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames and will be made available for free for research purpose.
+
 
 
 
@@ -65,8 +63,7 @@ dataset will motivate investigations for human activity analysis to consider sin
 |*Cycling*|*Standing*|*Walking*|
 
 ### Results
-To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. 
-The comparison is given in the below table. 
+To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. The comparison is given in the below table.
 
 |Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
 |:--:|:--:|:--:|:--:|:--:|
@@ -76,4 +73,4 @@ The comparison is given in the below table.
 
 ### Contact
 
-Feel free to contact me at royston.rodrigues@protonmail.com for quires regarding this work.
+Feel free to contact me at royston.rodrigues@protonmail.com for queries regarding this work.
