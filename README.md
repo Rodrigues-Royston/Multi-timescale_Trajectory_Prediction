@@ -1,7 +1,7 @@
 ## Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection
 This repository will contain the implementation of the approach described in the paper,  
 ```markdown
-@article{anomaly2019multi-timescale,
+@article{abnormal2019multi-timescale,
   title={Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection},
   author={Royston Rodrigues and Neha Bhargava and Rajbabu Velmurugan and Subhasis Chaudhuri},
   journal={arXiv preprint arXiv:1908.04321},
