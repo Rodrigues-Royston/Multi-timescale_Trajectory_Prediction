@@ -1,22 +1,12 @@
 ## Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection
 This repository will contain the implementation of the approach described in the paper,  
 ```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image] https://rodrigues-royston.github.io/Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif 
-![useful image](/dataset_gifs/protest.gif)
-image: Multi-timescale_Trajectory_Prediction/dataset_gifs/protest.gif
+@article{anomaly2019multi-timescale,
+  title={Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection},
+  author={Royston Rodrigues and Neha Bhargava and Rajbabu Velmurugan and Subhasis Chaudhuri},
+  journal={arXiv preprint arXiv:1908.04321},
+  year={2019}
+}
 ```
 
 
