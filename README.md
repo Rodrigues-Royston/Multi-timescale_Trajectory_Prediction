@@ -30,7 +30,7 @@ The proposed model generates large deviations for the prediction of human pose t
 |![GitHub Logo](/result_gifs/abnormal_03.gif) |![GitHub Logo](/result_gifs/abnormal_04.gif) |
 |Input Trajectory, Ground Truth|Input Trajectory, Ground Truth, Our Predicition|
 
-### Corridore Dataset
+### Corridor Dataset
 In order to benchmark existing techniques for the task of abnormal activity detection we introduce a new data-set, which consists of group activities such as protest, chasing, fighting, sudden running as well as single person activities such as hiding face, loitering, unattended baggage, carrying a suspicious object and cycling (in a pedestrian area). We believe such a dataset will motivate investigations for human activity analysis to consider single human or multi-human interaction. We name it the Corridor dataset. The Corridor is a large scale surveillance dataset with 4,83,566 frames and will be made available for free for research purpose.
 
 
@@ -55,7 +55,7 @@ In order to benchmark existing techniques for the task of abnormal activity dete
 ### Results
 To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. The comparison is given in the below table.
 
-|Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridore|
+|Method|HR-Avenue|HR-ShanghaiTech|ShanghaiTech|Corridor|
 |:--:|:--:|:--:|:--:|:--:|
 |Liu et al. (CVPR-18)|86.20|72.70|72.80|64.65|
 |Morais et al. (CVPR-19)|86.30|75.40|73.40|64.27|
