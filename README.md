@@ -10,10 +10,10 @@ This repository will contain the implementation of the approach described in the
 ```
 
 
-Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
+Our newly proposed dataset is now available for download, send me an email at royston.rodrigues@protonmail.com to request for the download link. Please cite our paper if you find our work or dataset useful for your research.
 
 ## Project Updates
-
+- **14/12/2019** : IITB-Corridor dataset is now avaiable for download
 - **10/12/2019** : This work has been accepted at WACV 2020
 - **16/08/2019** : Initial project page online
 - **12/08/2019** : Paper avaialble on ArXiv
