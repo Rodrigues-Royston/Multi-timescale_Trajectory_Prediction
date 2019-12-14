@@ -12,6 +12,12 @@ This repository will contain the implementation of the approach described in the
 
 Our newly proposed dataset will be made available here soon. Please cite our paper if you find our work or dataset useful for your research.
 
+## Project Updates
+
+- 10/12/2019 : **This work has been accepted at WACV 2020 !!**
+- 16/08/2019 : Initial Project Page online https://rodrigues-royston.github.io/Multi-timescale_Trajectory_Prediction/
+- 12/08/2019 : Paper up on ArXiv https://arxiv.org/abs/1908.04321
+
 ### Trajectory Predicition for Normal Samples
 The proposed model can predict future human pose trajectories successfully for normal pedestrian activities. (Please reload the webpage if the gif files don’t appear in synchronization)  
 
