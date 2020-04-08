@@ -14,7 +14,7 @@ year = {2020}
 Our newly proposed dataset is now available for download. Kindly, contact me at royston.rodrigues@protonmail.com to request for a download link. Please cite our paper if you find our work or dataset useful for your research.
 
 ## Project Updates
-- **08/04/2020** : IITB-Corridor dataset download information is on this webpage [You are free to download for Research Purposes Only]
+- **08/04/2020** : Download information for IITB-Corridor dataset is on this webpage
 - **14/12/2019** : IITB-Corridor dataset is now available for download
 - **10/12/2019** : This work has been accepted at WACV 2020
 - **16/08/2019** : Initial project page online
@@ -67,6 +67,8 @@ IITB-Corridor Dataset Download Link :-
 2.) Test Set :- https://drive.google.com/open?id=1F0m6kRcVKAvDIhGLgOY4QJ-oFdTmkzPI
 Password for both the files :
 tb7bdEZE
+
+Please note, this dataset is made available for research purposes only. 
 
 ### Results
 To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. The comparison is given in the below table.
