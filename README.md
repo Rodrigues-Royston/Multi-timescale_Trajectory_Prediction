@@ -63,10 +63,13 @@ In order to benchmark existing techniques for the task of abnormal activity dete
 ### Download Information for IITB-Corridor  Dataset 
 
 IITB-Corridor Dataset Download Link :-
+
 1.) Train Set :- https://drive.google.com/file/d/1HZZjINXIgWnq1FYuVTTBsfJiWsXy1uU5/view?usp=sharing
+
 2.) Test Set :- https://drive.google.com/open?id=1F0m6kRcVKAvDIhGLgOY4QJ-oFdTmkzPI
-Password for both the files :
-tb7bdEZE
+
+Password for both the files : tb7bdEZE
+
 
 Please note, this dataset is made available for research purposes only. 
 
