@@ -14,6 +14,7 @@ year = {2020}
 Our newly proposed dataset is now available for download. Kindly, contact me at royston.rodrigues@protonmail.com to request for a download link. Please cite our paper if you find our work or dataset useful for your research.
 
 ## Project Updates
+- **08/04/2020** : IITB-Corridor dataset download information is on this webpage [You are free to download for Research Purposes Only]
 - **14/12/2019** : IITB-Corridor dataset is now available for download
 - **10/12/2019** : This work has been accepted at WACV 2020
 - **16/08/2019** : Initial project page online
@@ -58,6 +59,14 @@ In order to benchmark existing techniques for the task of abnormal activity dete
 |![GitHub Logo](/iitb_imgs/small_cycling.jpg) |![GitHub Logo](/iitb_imgs/small_normal.jpg) |![GitHub Logo](/iitb_imgs/small_normal_2.jpg) |
 |:--:|:--:|:--:|
 |*Cycling*|*Standing*|*Walking*|
+
+### Download Information for IITB-Corridor  Dataset 
+
+IITB-Corridor Dataset Download Link :-
+1.) Train Set :- https://drive.google.com/file/d/1HZZjINXIgWnq1FYuVTTBsfJiWsXy1uU5/view?usp=sharing
+2.) Test Set :- https://drive.google.com/open?id=1F0m6kRcVKAvDIhGLgOY4QJ-oFdTmkzPI
+Password for both the files :
+tb7bdEZE
 
 ### Results
 To compare with existing approaches, we use frame level AUC as the evaluating criteria. Our proposed model outperforms existing methods. The comparison is given in the below table.
