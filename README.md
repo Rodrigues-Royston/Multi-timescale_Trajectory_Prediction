@@ -14,11 +14,17 @@ year = {2020}
 Our newly proposed dataset is now available for download. Kindly, contact me at royston.rodrigues@protonmail.com to request for a download link. Please cite our paper if you find our work or dataset useful for your research.
 
 ## Project Updates
+- **09/05/2020** : Link for our Oral talk at WACV 2020 and is now available
 - **08/04/2020** : Download information for IITB-Corridor dataset is on this webpage
 - **14/12/2019** : IITB-Corridor dataset is now available for download
 - **10/12/2019** : This work has been accepted at WACV 2020
 - **16/08/2019** : Initial project page online
 - **12/08/2019** : Paper now on ArXiv
+
+### Oral Talk at WACV 2020
+
+[![IMAGE ALT TEXT HERE](/Poster_Presentation/wacv.PNG)](https://www.youtube.com/watch?v=mIG0WXolM7A&t=913s)
+
 
 ### Trajectory Predicition for Normal Samples
 The proposed model can predict future human pose trajectories successfully for normal pedestrian activities. (Please reload the webpage if the gif files don’t appear in synchronization)  
