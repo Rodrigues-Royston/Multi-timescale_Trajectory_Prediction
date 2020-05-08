@@ -14,7 +14,7 @@ year = {2020}
 Our newly proposed dataset is now available for download. Kindly, contact me at royston.rodrigues@protonmail.com to request for a download link. Please cite our paper if you find our work or dataset useful for your research.
 
 ## Project Updates
-- **09/05/2020** : Link for our Oral talk at WACV 2020 and is now available
+- **09/05/2020** : Link for our Oral talk at WACV 2020 is now available
 - **08/04/2020** : Download information for IITB-Corridor dataset is on this webpage
 - **14/12/2019** : IITB-Corridor dataset is now available for download
 - **10/12/2019** : This work has been accepted at WACV 2020
